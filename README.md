@@ -2,7 +2,7 @@
 ### <p align="center">I'm Front End Developer</p>
 ### <p>Education<p>
 <li>🎓 Bachelor’s degree in computer science .</li>
-<li>⚡ A Web Developer working on basic front-end development tools including HTML, CSS, Tailwind, JavaScript, and REACT.</li>
+<li>⚡ A Web Developer working on basic front-end development tools including HTML, CSS, JavaScript, and REACT.</li>
 
 ### GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hasnainchch&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
